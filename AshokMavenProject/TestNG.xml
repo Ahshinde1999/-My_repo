@@ -4,7 +4,7 @@
 <suite name="AshokMavenProject">
 	<test name="test1">
 
-		<parameter name="browser" value="edge" />
+		<parameter name="browser" value="chrome" />
 
 		<classes>
 			<class name="com.AshokMavenProject.testCases.TC_LoginTest_001" />
