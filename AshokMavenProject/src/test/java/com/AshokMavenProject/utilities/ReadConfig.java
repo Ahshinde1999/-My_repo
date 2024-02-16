@@ -44,4 +44,8 @@ public class ReadConfig {
 		String edgepath=pro.getProperty("edgepath");
 		return edgepath;
 	}
+	public String getIePath() {
+		String ie=pro.getProperty("iepath");
+		return ie;
+	}
 }
